@@ -12,6 +12,13 @@ Analyze customer spending behavior across cities, card types, expense categories
 - Seaborn
 - Jupyter Notebook
 
+## Dataset
+
+The dataset used in this project was obtained from Kaggle.
+
+Dataset Link:
+https://www.kaggle.com/datasets/ayushchandramaurya/credit-card-spendings
+
 ## Key Findings
 
 - Greater Mumbai contributes the highest spending.
